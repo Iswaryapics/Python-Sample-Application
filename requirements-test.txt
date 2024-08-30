@@ -1,7 +1,7 @@
 # Test harness
-pytest==2.5.2
+pytest==7.0.
 # Coverage
-pytest-cov==3.0
+pytest-cov==3.0.0
 # HTTP Fixtures
 betamax==0.4.0
 # LINT OR DIE
